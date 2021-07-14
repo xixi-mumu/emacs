@@ -1,0 +1,323 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/ptshe/.emacs.d/plugins/color-theme/" . "themes/")
+ ("/home/ptshe/.emacs.d/plugins/" . "color-theme/")
+ ("/home/ptshe/.emacs.d/" . "plugins/")
+ ("/home/ptshe/work/isvp_t31/opensource/internal/t31/t31-tiziano/" . "src/")
+ ("/home/ptshe/work/isvp_t31/opensource/internal/t31/" . "t31-firmware/")
+ ("/home/ptshe/work/isvp_t31/opensource/internal/" . "t31/")
+ ("/home/ptshe/work/isvp_t31/opensource/" . "internal/")
+ ("/home/ptshe/work/isvp_t31/" . "opensource/")
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-06-16/t40-tiziano/" . "src/")
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-06-16/" . "t40-tiziano/")
+ ("/home/ptshe/work/" . "isvp_t31/")
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-05-26/" . "src/")
+ ("/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-13-sp/" . "lib/")
+ ("/home/ptshe/work/isvp/opensource/internal/t40/t40-tiziano/" . "src/")
+ ("/home/ptshe/work/isvp/opensource/internal/t40/t40-firmware/" . "include/")
+ ("/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-12/" . "firmware/")
+ ("/home/ptshe/Share_win/F_share/interp-for-anber/c_code/" . "gamma/")
+ ("/home/ptshe/work/isvp/build/" . "t40/")
+ ("/home/ptshe/work/isvp/" . "opensource/")
+ ("/home/ptshe/work/isvp/opensource/drivers/isp-t40/" . "tx-isp-t40/")
+ ("/home/ptshe/work/isvp/opensource/drivers/" . "isp-t40/")
+ ("/home/ptshe/work/isvp/opensource/" . "internal/")
+ ("/home/ptshe/work/isvp/opensource/internal/" . "t40/")
+ ("/home/ptshe/work/isvp/opensource/internal/t40/" . "t40-tiziano/")
+ ("/home/ptshe/Share_win/F_share/A1/DLI/c_code/" . "ver004/")
+ ("/home/ptshe/Share_win/F_share/A1/DLI/" . "c_code/")
+ ("/home/ptshe/Share_win/F_share/A1/" . "文档/")
+ ("/home/ptshe/Share_win/F_share/T31-defog/" . "2020_12_15/")
+ ("/home/ptshe/Share_win/F_share/T40/lce/firmware/" . "2021-02-19/")
+ ("/home/ptshe/Share_win/F_share/T40/defog/firmware/" . "2020-10-09/")
+ ("/home/ptshe/Share_win/F_share/T40/defog/" . "firmware/")
+ ("/home/ptshe/Share_win/F_share/T41-defog-interp-test/" . "c_code/")
+ ("/home/ptshe/Share_win/F_share/T41/defog/ver001/" . "src/")
+ ("/home/ptshe/Share_win/F_share/T41/defog/ver001/src/" . "Tiziano_defog/")
+ ("/home/ptshe/Share_win/F_share/T40/" . "t40-tiziano-06-16/")
+ ("/home/ptshe/Share_win/F_share/T40/lce/" . "firmware/")
+ ("/home/ptshe/Share_win/F_share/003-LPR/" . "part-2-image-stretch/")
+ ("/home/ptshe/Share_win/F_share/Scale/" . "c_code/")
+ ("/home/ptshe/Share_win/" . "F_share/")
+ ("/home/" . "ptshe/")
+ ("/home/ptshe/Share_win/F_share/T40-lce/" . "firmware/")
+ ("/home/ptshe/Share_win/F_share/" . "T40/")
+ ("/home/ptshe/ptshe/" . ".emacs-backup/")
+ ("/home/ptshe/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/ptshe/.emacs.d/plugins/color-theme/themes/"
+ "/home/ptshe/"
+ "/home/ptshe/.emacs.d/plugins/color-theme/"
+ "/home/ptshe/.emacs.d/plugins/matlab-emacs/"
+ "/home/ptshe/TEST/"
+ "/home/ptshe/work/isvp_t31/opensource/internal/t31/t31-tiziano/src/"
+ "/home/ptshe/work/isvp_t31/opensource/internal/t31/t31-tiziano/inc/"
+ "/home/ptshe/work/isvp_t31/opensource/internal/t31/t31-firmware/"
+ "/home/ptshe/work/isvp/opensource/internal/t40/t40-tiziano/src/"
+ "/home/ptshe/Share_win/D_share/"
+ "/home/ptshe/Share_win/F_share/A1/TOL/"
+ "/home/ptshe/Share_win/F_share/A1/文档/"
+ "/home/ptshe/work/isvp/opensource/internal/t40/t40-firmware/"
+ "/home/ptshe/Share_win/F_share/T40/t40-tiziano-06-16/t40-tiziano/src/"
+ "/home/ptshe/work/isvp/opensource/internal/t40/t40-tiziano/inc/"
+ "/home/ptshe/Share_win/F_share/CLM-bin2curve/"
+ "/home/ptshe/Share_win/F_share/T40/t40-tiziano-05-26/src/"
+ "/home/ptshe/Share_win/F_share/interp-for-anber/c_code/gamma/"
+ "/home/ptshe/Share_win/F_share/interp-for-anber/c_code/gamma2/"
+ "/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-13-sp/lib/"
+ "/home/ptshe/Share_win/F_share/T40/backup/t40-tiziano/src/"
+ "/home/ptshe/Share_win/F_share/T40/backup/"
+ "/home/ptshe/Share_win/F_share/T40/gamma/"
+ "/home/ptshe/Share_win/F_share/T40/blc/"
+ "/home/ptshe/work/isvp/opensource/internal/t40/t40-firmware/include/"
+ "/home/ptshe/Share_win/F_share/001-my-m-func-lib/"
+ "/home/ptshe/Share_win/F_share/T40/lce/Mversion-2021-04-14/func-lib/"
+ "/home/ptshe/Share_win/F_share/T40/lce/Mversion-2021-04-14/"
+ "/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-13-sp/"
+ "/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-13-mp/"
+ "/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-12/"
+ "/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-12/firmware/"
+ "/home/ptshe/Share_win/F_share/A1/DLI/c_code/ver007-channel/"
+ "/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver007-channel/"
+ "/home/ptshe/Share_win/F_share/T40/lce/firmware/2021-02-19/"
+ "/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver006/"
+ "/home/ptshe/Share_win/F_share/interp-for-anber/c_code/drawcurve/"
+ "/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver005/"
+ "/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver004/"
+ "/home/ptshe/Share_win/F_share/A1/DLI/c_code/ver004/"
+ "/home/ptshe/Share_win/F_share/T31-defog/2020_12_15/"
+ "/home/ptshe/Share_win/F_share/T31-defog/2021-02-03/"
+ "/home/ptshe/Share_win/F_share/T31-defog/issue/"
+ "/home/ptshe/Share_win/F_share/T40/lce/firmware/2021-01-26/"
+ "/home/ptshe/work/isvp/build/t40/"
+ "/home/ptshe/work/isvp/opensource/internal/t40/t40-tiziano/"
+ "/home/ptshe/work/isvp/opensource/internal/t40/t40-firmware/videoin/"
+ "/home/ptshe/work/isvp/opensource/drivers/isp-t40/tx-isp-t40/"
+ "/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver002/"
+ "/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver001/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "color-theme-library.el"
+ ".emacs.el"
+ "color-theme-example.el"
+ "color-theme.el"
+ "matlab.el"
+ "test.c"
+ "vde_mixer_reg_map.h"
+ "tiziano_core_tuning.c"
+ "tiziano_csc.c"
+ "tiziano_map.h"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/ptshe/.emacs.d/plugins/matlab-emacs/" (24813 21542 828373 102000) "../" "matlab.el" "aaa.m" "./")
+
+ ("/home/ptshe/" (24812 62213 309954 834000) "../" ".subversion/" "examples.desktop" ".gnupg/" "snap/" ".local/" ".cache/" ".profile" ".bash_logout" ".config/" "mount.sh" "UPDATA_ISVP_T40.sh" "cd/" ".emacs.d/" ".repo_.gitconfig.json" ".bash_history" ".emacs.el" ".oracle_jre_usage/" ".git/" "Desktop/" "emacs.tar.gz" ".ICEauthority" ".sudo_as_admin_successful" "Public/" ".pam_environment" "UPDATA_ISVP_T31.sh" "TEST/" "Videos/" ".ssh/" ".python_history" "Share_vm/" ".ICAClient/" ".java/" ".matlab/" "work/" ".bash_aliases" ".gitconfig" ".dbus/" ".mozilla/" "Share_tftp/" ".bashrc" "Share_win/" "bin/" ".Xauthority" "Pictures/" ".xinputrc" ".themes/" "./" "Documents/" "vde_mixer.c" "tools/" "Downloads/")
+
+ ("/home/ptshe/.emacs.d/" (24813 16874 466177 750000) "plugins/" "../" "ac-comphist.dat" "session.10a1188e4f536f0733160768162766871300000012180075" "session.10a1188e4f536f0733160739198542238500000012180065" ".emacs.el" "ido.last" "session.10d305a02f5a953fe7161162687520461500000011780069" "network-security.data" ".mc-lists.el" "my-macro/" "session.10a1188e4f536f0733160767027294023600000012180073" "session.10bc75760b5ab766b6161041869699167400000012470065" "bookmarks" "session.10eb5f136ca1bd9be4159762575982478500000012400065" "auto-save-list/" "./" "session.10c716d1b98b462345160886519761630100000012710067" "elpa/")
+
+ ("/home/ptshe/.emacs.d/plugins/" (24813 15979 42676 332000) "../" "multiple-cursors/" "flycheck/" "color-theme/" "matlab-emacs/" "crosshairs/" "./" "auto-complete/")
+
+ ("/home/ptshe/.emacs.d/plugins/color-theme/themes/" (24812 964 729630 216000) "../" "color-theme-example.el" "color-theme-library.el" "./")
+
+ ("/home/ptshe/.emacs.d/plugins/color-theme/" (24811 64882 815242 226000) "../" "themes/" "color-theme.el" "./")
+
+ ("/home/ptshe/TEST/" (24806 51490 965487 908000) "../" "run.sh" "vde_mixer_reg_map.h" "debug_file_func_line.m" "a.png" "test.c" "./")
+
+ ("/home/ptshe/Share_win/" (24808 11366 0 0) "D_share/" "F_share/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/" (24787 62808 0 0) "YUV-RGB.txt" "Txx-imresize/" "test/" "T41-Ysharpen/" "T41-defog-interp-test/" "T41/" "T40/" "T31-defog/" "Stool-clm/" "scene-002/" "scene-001/" "Linux-matlab2018a/" "JZ-IMG-TRANSFORM/" "interp-for-anber/" "images/" "CLM-bin2curve/" "A1/" "10k/" "003-LPR/" "001-my-m-func-lib/" "000-my-c-func-lib/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/" (24790 33418 0 0) "文档/" "TOL/" "PEAK/" "DLI/" "BCSH/" "A1-spec-20210619/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/TOL/" (24806 30187 0 0) "vde_mixer_reg_map.h" "tnvr_tol.c" "subfunc_hist_method.c" "../" "./")
+
+ ("/home/ptshe/work/isvp_t31/opensource/internal/t31/t31-tiziano/src/" (24805 30142 327488 993000) "tiziano_sdns.c" "tiziano_core.c" "tiziano_bcsh.h" "tx-isp-init-params.c" "../" "tiziano_awb.c" "tiziano_af.c" "tiziano_wdr.h" "tiziano_map.h" "tiziano_params.h" "tisp_ccm-540.a" "tiziano_af.h" "tiziano_sharpen.c" "tiziano_netlink.h" "tiziano_sdns.h" "tisp_adr.a" "tisp_ccm.a" "tzctrl.c" "tiziano_gamma.h" "tiziano_gamma.c" "tisp_adr-540.a" "tiziano_dmsc.c" "tiziano_dpc.h" "tiziano_awb.h" "tiziano_hldc.h" "tiziano_hldc.c" "tiziano_gb.c" "tiziano_adr.c" "tisp_awb-540.a" "fix_point_calc.c" "tiziano_sharpen.h" "tiziano_ccm.c" "tiziano_gib.c" "tisp_wdr.a" "tiziano_defog.h" "tisp_awb.a" "tiziano_wdr.c" "tiziano_clm.h" "tiziano_csc.c" "tiziano_lsc.c" "tiziano_ccm.h" "tiziano_ydns.c" "tiziano_dmsc.h" "tisp_wdr-472.a" "tiziano_ae.c" "tiziano_mdns.h" "tiziano_core_tuning.c" "tiziano_adr.h" "tiziano_csc.h" "tiziano_ae.h" "tiziano_debug.c" "tiziano_event.c" "clm_lut.h" "tisp_adr-472.a" "tiziano_params_operate.h" "fix_point_calc.h" "tiziano_netlink.c" "tiziano_gb.h" "tiziano_params_operate.c" "tiziano_ydns.h" "tisp_ccm-472.a" "tiziano_rdns.c" "tiziano_bcsh.c" "tiziano_clm.c" "tiziano_gib.h" "tiziano_mdns.c" "tiziano_rdns.h" "tiziano_event.h" "tiziano_all_params_info.c" "tiziano_defog.c" "tiziano_core.h" "tiziano_lsc.h" "./" "tisp_wdr-540.a" "tisp_awb-472.a" "tiziano_dpc.c")
+
+ ("/home/ptshe/work/isvp_t31/opensource/internal/t31/t31-tiziano/" (24805 29130 378450 111000) "../" "Makefile" "src/" "trans.sh.cmd" "inc/" "./")
+
+ ("/home/ptshe/work/isvp_t31/opensource/internal/t31/t31-firmware/" (24805 29129 930454 205000) "system_sensor_drv.h" "tx-isp-core.o" ".tx-isp-frame-channel.o.cmd" "../" ".tx-isp-interrupt.o.cmd" "videoin/" ".tx-isp-debug.o.cmd" ".system_sensor_drv.o.cmd" "txx-funcs.o" "tiziano_map.h" "tx-isp-core-tuning.c" "t31-firmware.o" "tx-isp-core-tuning.o" ".tmp_versions/" "modules.order" "Module.symvers" "Makefile" "trans.sh" ".tx-isp-core-tuning.o.cmd" "tx-isp-interrupt.o" "tx-isp-frame-channel.c" "libt31isp-472.a" "tiziano_isp.h" "t31-firmware.mod.c" "board/" "tx-isp-debug.c" "tx-isp-core-tuning.h" "tiziano_core_tuning.h" "tx-isp-videobuf.h" "tx-isp-interrupt.c" "tx-isp-frame-channel.h" "txx-funcs.c" "system_sensor_drv.c" "tx-isp-frame-channel.o" "tx-isp-core.h" "tx-isp-device.o" "t31-firmware.mod.o" "tx-isp-interrupt.h" "libt31isp.a" ".txx-funcs.o.cmd" "tx-isp-videobuf.o" "tx-isp-debug.o" "system_sensor_drv.o" "tx-isp-videobuf.c" "tx-isp-device.c" ".t31-firmware.mod.o.cmd" "t31-firmware.ko" "include/" ".tx-isp-videobuf.o.cmd" "tx-isp-core.c" "./" ".tx-isp-core.o.cmd" ".tx-isp-device.o.cmd" ".t31-firmware.o.cmd" ".t31-firmware.ko.cmd" "libt31isp-540.a")
+
+ ("/home/ptshe/work/isvp_t31/opensource/internal/t31/t31-tiziano/inc/" (24805 29045 615224 467000) "system_sensor_drv.h" "../" "tiziano_isp.h" "tiziano_sys.h" "tiziano_core_tuning.h" "./")
+
+ ("/home/ptshe/work/isvp/opensource/drivers/isp-t40/tx-isp-t40/" (24794 60861 840033 887000) "../" "tx-isp-t40.ko" ".tmp_versions/" "modules.order" "Module.symvers" "Makefile" "tx-isp-t40.o" "tx-isp-module.c" "libt40-firmware-720r500.a" "libt40-firmware-720r400.a" "tx-isp-module.o" "tx-isp-t40.mod.o" "tx-isp-funcs.c" ".tx-isp-t40.ko.cmd" ".tx-isp-t40.o.cmd" "tx-isp-funcs.o" "libt40-firmware.a" ".tx-isp-funcs.o.cmd" "tx-isp-t40.mod.c" ".tx-isp-t40.mod.o.cmd" "include/" "./" ".tx-isp-module.o.cmd")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/t40-firmware/videoin/" (24794 60861 168043 146000) ".tx-isp-csi.o.cmd" "../" "tx-isp-vic.h" "tx-isp-video-in.c" "tx-isp-video-in.o" "tx-isp-vic.o" "tx-isp-csi.h" "tx-isp-vic.c" "tx-isp-csi.o" "tx-isp-csi.c" ".tx-isp-vic.o.cmd" "./" ".tx-isp-video-in.o.cmd" "tx-isp-video-in.h")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/t40-tiziano/" (24794 60861 860033 611000) "../" "Makefile" "firmware-tx-isp-device.c" "src/" "trans.sh.cmd" "inc/" "./" ".ycm_extra_conf.py")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/t40-firmware/" (24794 60861 272041 713000) "system_sensor_drv.h" "tx-isp-core.o" "libt40isp-720r500.a" ".tx-isp-frame-channel.o.cmd" "../" ".tx-isp-interrupt.o.cmd" "videoin/" ".tx-isp-debug.o.cmd" ".system_sensor_drv.o.cmd" "tx-isp-core-tuning.c" "tx-isp-core-tuning.o" ".tmp_versions/" "modules.order" "Module.symvers" "Makefile" "trans.sh" ".tx-isp-core-tuning.o.cmd" "tx-isp-interrupt.o" "tx-isp-frame-channel.c" "t40-firmware.mod.c" "tiziano-core-ctrl.h" "board/" "tx-isp-debug.c" "tx-isp-core-tuning.h" "tx-isp-videobuf.h" "tx-isp-interrupt.c" "tx-isp-frame-channel.h" ".t40-firmware.ko.cmd" "system_sensor_drv.c" "tx-isp-frame-channel.o" "tx-isp-core.h" "tx-isp-device.o" "tx-isp-interrupt.h" "t40-firmware.o" "tx-isp-videobuf.o" "tx-isp-debug.o" "system_sensor_drv.o" "tx-isp-videobuf.c" ".t40-firmware.o.cmd" "tx-isp-device.c" "libt40isp.a" "t40-firmware.mod.o" "t40-firmware.ko" "libt40isp-720r400.a" "include/" ".t40-firmware.mod.o.cmd" ".tx-isp-videobuf.o.cmd" "tx-isp-core.c" "./" ".tx-isp-core.o.cmd" ".tx-isp-device.o.cmd")
+
+ ("/home/ptshe/Share_win/F_share/A1/文档/" (24790 56161 0 0) "VDE_RAM_配置流程.docx" "PEAK模块功能说明及寄存器配置.docx" "peak-sel-curve.png" "peak-dte-curve.png" "peak-config.c" "DLI模块功能说明及寄存器配置.docx" "DLI REG config.xlsx" "BCSH模块功能说明及寄存器配置.docx" "A1_vde_spec.pdf" "A1_vde_spec.doc" "../" "./")
+
+ ("/home/ptshe/Share_win/D_share/" (24805 17086 0 0) "tiziano_csc.h" "tiziano_csc.c" "tiziano_core_tuning.h" "tiziano_core_tuning.c" "tiziano_core.c" "tiziano_bcsh.h" "tiziano_bcsh.c" "old-tmp/" "matlab-emacs-master/" "Makefile" "Linux/" "ImageTuningToolServer-T31_V3.0.0/" "../" "./")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/t40-tiziano/src/" (24794 60861 860033 611000) "tiziano-gib.h" "tiziano-adr.c" "tiziano-core-tuning.h" "tisp-awb.a" "tiziano-gamma.c" "../" "tiziano-core-ctrl.c" "tiziano-hldc.c" "tiziano-cdns.c" "tiziano-clm.h" "tiziano-ccm.c" "tiziano-csc.c" "tiziano-dmsc.h" "tiziano-af.c" "tiziano-af.h" "tiziano-wdr.h" "tiziano-gib.c" ".#tiziano_params.h" "tiziano-wdr.c" "tiziano-cdns.h" "tiziano-mdns.h" "tiziano-ae.h" "tiziano-lce.c" "tisp-awb-720r400.a" "tiziano-ysp.h" "tiziano-blc.c" "tiziano-map.h" "tiziano-dmsc.c" "tiziano-ydns.h" "tiziano-gamma.h" "tiziano-event.h" "tiziano-defog.c" "tiziano-tstp.c" "tiziano-adr.h" "tiziano-lce.h" "tiziano-mdns.c" "tiziano-clm.c" "tiziano-ysp.c" "tiziano-ccm.h" "tiziano-dpc.h" "tiziano-ydns.c" "tiziano-gsm.h" "fix-point-calc.h" "tiziano-gsm.c" "tiziano-csc.h" "tiziano-lsc.c" "tiziano-msca.h" "tiziano-tstp.h" "tisp-awb-720r500.a" "tiziano-awb.c" "tiziano-event.c" "tiziano-params.h" "tiziano-dpc.c" "tiziano-blc.h" "tiziano-bcsh.h" "tiziano-sdns.h" "tiziano-msca.c" "tiziano-core-tuning.c" "fix-point-calc.c" "tisp-ccm.a" "tiziano-core.c" "tiziano-defog.h" "tiziano-hldc.h" "tiziano-lsc.h" "./" "tiziano-core.h" "tiziano-debug.c" "tisp-ccm-720r500.a" "tiziano-ae.c" "tiziano-awb.h" "tiziano-sdns.c" "tiziano-bcsh.c" "tisp-ccm-720r400.a")
+
+ ("/home/ptshe/Share_win/F_share/A1/DLI/c_code/" (24666 61134 0 0) "ver008/" "ver007-channel/" "ver006/" "ver005/" "ver004/" "ver003/" "ver002/" "ver001/" "test_div.m" "imgs/" "count.mat" "../" "./")
+
+ ("/home/ptshe/work/isvp_t31/opensource/internal/t31/" (24785 20213 978396 106000) "TispDynamicToolClient/" "../" "mxuv2_switch/" "TispDynamicToolClientSocket/" "t31-tiziano/" ".gitignore" ".git/" "TispDynamicToolServer/" "t31-firmware/" "TispDynamicToolServerSocket/" "./")
+
+ ("/home/ptshe/work/isvp_t31/opensource/internal/" (24788 22430 23820 379000) "../" "tiziano_gib.c" "t31/" "./")
+
+ ("/home/ptshe/work/isvp_t31/opensource/" (24603 37737 116044 400000) "uboot/" "../" "internal/" "busybox/" "kernel-4.4.94/" "rtems/" "kernel/" "drivers/" "./" "buildroot/")
+
+ ("/home/ptshe/work/isvp_t31/" (24603 37764 859353 31000) "proj/" "prebuilt/" "../" "repo" "doc/" "external/" "_release/" ".repo/" "build/" "opensource/" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-06-16/t40-tiziano/src/" (24777 23195 0 0) "tiziano-ysp.h" "tiziano-ysp.c" "tiziano-ydns.h" "tiziano-ydns.c" "tiziano-wdr.h" "tiziano-wdr.c" "tiziano-tstp.h" "tiziano-tstp.c" "tiziano-sdns.h" "tiziano-sdns.c" "tiziano-params.h" "tiziano-msca.h" "tiziano-msca.c" "tiziano-mdns.h" "tiziano-mdns.c" "tiziano-map.h" "tiziano-lsc.h" "tiziano-lsc.c" "tiziano-lce.h" "tiziano-lce.c" "tiziano-hldc.h" "tiziano-hldc.c" "tiziano-gsm.h" "tiziano-gsm.c" "tiziano-gib.h" "tiziano-gib.c" "tiziano-gamma.h" "tiziano-gamma.c" "tiziano-event.h" "tiziano-event.c" "tiziano-dpc.h" "tiziano-dpc.c" "tiziano-dmsc.h" "tiziano-dmsc.c" "tiziano-defog.h" "tiziano-defog.c" "tiziano-debug.c" "tiziano-csc.h" "tiziano-csc.c" "tiziano-core.h" "tiziano-core.c" "tiziano-core-tuning.h" "tiziano-core-tuning.c" "tiziano-core-ctrl.c" "tiziano-clm.h" "tiziano-clm.c" "tiziano-cdns.h" "tiziano-cdns.c" "tiziano-ccm.h" "tiziano-ccm.c" "tiziano-blc.h" "tiziano-blc.c" "tiziano-bcsh.h" "tiziano-bcsh.c" "tiziano-awb.h" "tiziano-awb.c" "tiziano-af.h" "tiziano-af.c" "tiziano-ae.h" "tiziano-ae.c" "tiziano-adr.h" "tiziano-adr.c" "tisp-ccm.a" "tisp-ccm-720r500.a" "tisp-ccm-720r400.a" "tisp-awb.a" "tisp-awb-720r500.a" "tisp-awb-720r400.a" "fix-point-calc.h" "fix-point-calc.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-06-16/t40-tiziano/" (24777 25374 0 0) "trans.sh.cmd" "t40-tiziano/" "src/" "Makefile" "inc/" "firmware-tx-isp-device.c" ".ycm_extra_conf.py" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-06-16/" (24777 23195 0 0) "trans.sh.cmd" "t40-tiziano.o" "t40-tiziano.mod.o" "t40-tiziano.mod.c" "t40-tiziano.ko" "t40-tiziano/" "src/" "modules.order" "Module.symvers" "Makefile" "inc/" ".ycm_extra_conf.py" ".tmp_versions/" ".t40-tiziano.o.cmd" ".t40-tiziano.mod.o.cmd" ".t40-tiziano.ko.cmd" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/" (24777 23194 0 0) "t40-tiziano-06-16/" "t40-tiziano-05-26/" "t40-tiziano-05-25/" "T40-firmware-API.txt" "src/" "lce/" "handwork-list.txt" "handwork-2021-06-15/" "handwork-2021-05-24/" "handwork-2021-05-21/" "handwork-2021-05-20/" "gamma/" "defog/" "backup/" "../" "./")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/" (24777 22475 238677 973000) "../" "t40-tiziano/" ".gitignore" ".git/" "ImageTool-T40/" "t40-firmware/" "ImageToolServer/" "./")
+
+ ("/home/ptshe/Share_win/F_share/interp-for-anber/" (24761 38200 0 0) "test_zero_shope.m" "test.txt" "test-mn.txt" "replay_pid16576.log" "replay_pid15488.log" "replay_pid11000.log" "mcode.m" "interp_peter.m" "hisi曲线边界点说明.txt" "c_code/" "clm-pic/" "../" "./")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/t40-firmware/include/" (24777 54055 132621 423000) "../" "tx-vic-regs.h" "tiziano-map.h" "tiziano-isp.h" "tx-isp-list.h" "./")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/t40-tiziano/inc/" (24777 53561 433061 892000) "system_sensor_drv.h" "../" "tiziano-core-ctrl.h" "tiziano_sys.h" "tiziano-isp.h" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-06-16/src/" (24777 23195 0 0) "tiziano-ysp.o" "tiziano-ysp.h" "tiziano-ysp.c" "tiziano-ydns.o" "tiziano-ydns.h" "tiziano-ydns.c" "tiziano-wdr.o" "tiziano-wdr.h" "tiziano-wdr.c" "tiziano-tstp.o" "tiziano-tstp.h" "tiziano-tstp.c" "tiziano-sdns.o" "tiziano-sdns.h" "tiziano-sdns.c" "tiziano-params.h" "tiziano-msca.o" "tiziano-msca.h" "tiziano-msca.c" "tiziano-mdns.o" "tiziano-mdns.h" "tiziano-mdns.c" "tiziano-map.h" "tiziano-lsc.o" "tiziano-lsc.h" "tiziano-lsc.c" "tiziano-lce.o" "tiziano-lce.h" "tiziano-lce.c" "tiziano-hldc.o" "tiziano-hldc.h" "tiziano-hldc.c" "tiziano-gsm.o" "tiziano-gsm.h" "tiziano-gsm.c" "tiziano-gib.o" "tiziano-gib.h" "tiziano-gib.c" "tiziano-gamma.o" "tiziano-gamma.h" "tiziano-gamma.c" "tiziano-event.o" "tiziano-event.h" "tiziano-event.c" "tiziano-dpc.o" "tiziano-dpc.h" "tiziano-dpc.c" "tiziano-dmsc.o" "tiziano-dmsc.h" "tiziano-dmsc.c" "tiziano-defog.o" "tiziano-defog.h" "tiziano-defog.c" "tiziano-debug.o" "tiziano-debug.c" "tiziano-csc.o" "tiziano-csc.h" "tiziano-csc.c" "tiziano-core.o" "tiziano-core.h" "tiziano-core.c" "tiziano-core-tuning.o" "tiziano-core-tuning.h" "tiziano-core-tuning.c" "tiziano-core-ctrl.o" "tiziano-core-ctrl.c" "tiziano-clm.o" "tiziano-clm.h" "tiziano-clm.c" "tiziano-cdns.o" "tiziano-cdns.h" "tiziano-cdns.c" "tiziano-ccm.o" "tiziano-ccm.h" "tiziano-ccm.c" "tiziano-blc.o" "tiziano-blc.h" "tiziano-blc.c" "tiziano-bcsh.o" "tiziano-bcsh.h" "tiziano-bcsh.c" "tiziano-awb.o" "tiziano-awb.h" "tiziano-awb.c" "tiziano-af.o" "tiziano-af.h" "tiziano-af.c" "tiziano-ae.o" "tiziano-ae.h" "tiziano-ae.c" "tiziano-adr.o" "tiziano-adr.h" "tiziano-adr.c" "tisp-ccm.a" "tisp-ccm-720r500.a" "tisp-ccm-720r400.a" "tisp-awb.a" "tisp-awb-720r500.a" "tisp-awb-720r400.a" "fix-point-calc.o" "fix-point-calc.h" "fix-point-calc.c" ".tiziano-ysp.o.cmd" ".tiziano-ydns.o.cmd" ".tiziano-wdr.o.cmd" ".tiziano-tstp.o.cmd" ".tiziano-sdns.o.cmd" ".tiziano-msca.o.cmd" ".tiziano-mdns.o.cmd" ".tiziano-lsc.o.cmd" ".tiziano-lce.o.cmd" ".tiziano-hldc.o.cmd" ".tiziano-gsm.o.cmd" ".tiziano-gib.o.cmd" ".tiziano-gamma.o.cmd" ".tiziano-event.o.cmd" ".tiziano-dpc.o.cmd" ".tiziano-dmsc.o.cmd" ".tiziano-defog.o.cmd" ".tiziano-debug.o.cmd" ".tiziano-csc.o.cmd" ".tiziano-core.o.cmd" ".tiziano-core-tuning.o.cmd" ".tiziano-core-ctrl.o.cmd" ".tiziano-clm.o.cmd" ".tiziano-cdns.o.cmd" ".tiziano-ccm.o.cmd" ".tiziano-blc.o.cmd" ".tiziano-bcsh.o.cmd" ".tiziano-awb.o.cmd" ".tiziano-af.o.cmd" ".tiziano-ae.o.cmd" ".tiziano-adr.o.cmd" ".fix-point-calc.o.cmd" "../" "./")
+
+ ("/home/ptshe/work/isvp/build/t40/" (24747 30592 658074 795000) "../" "env_setup.sh" "release_sdk_tmp_dbg.sh" "t40_env_setup.sh" "release_sdk_mk.sh" "release_sdk.sh" "image_mk.sh" "release_ivs_mxu_cp.sh" "make_everyday.sh" "release_ivsv2_mxu_cp.sh" "release_ivs_mxu_mk.sh" "ivs_func.txt" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-13-sp/" (24749 61271 0 0) "trans.sh" "tiziano-lce.c" "res16.bmp" "res15.bmp" "res.nv12" "res.bmp" "ori.nv12" "ori.bmp" "lib/" "lce.exe" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/gamma/" (24757 56432 0 0) "test_gamma.m" "gamma_func.m" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/backup/" (24747 32119 0 0) "t40-tiziano/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-05-26/src/" (24777 19915 0 0) "tiziano-ysp.h" "tiziano-ysp.c" "tiziano-ydns.h" "tiziano-ydns.c" "tiziano-wdr.h" "tiziano-wdr.c" "tiziano-tstp.h" "tiziano-tstp.c" "tiziano-sdns.h" "tiziano-sdns.c" "tiziano-params.h" "tiziano-msca.h" "tiziano-msca.c" "tiziano-mdns.h" "tiziano-mdns.c" "tiziano-map.h" "tiziano-lsc.h" "tiziano-lsc.c" "tiziano-lce.h" "tiziano-lce.c" "tiziano-hldc.h" "tiziano-hldc.c" "tiziano-gsm.h" "tiziano-gsm.c" "tiziano-gib.h" "tiziano-gib.c" "tiziano-gamma.h" "tiziano-gamma.c" "tiziano-event.h" "tiziano-event.c" "tiziano-dpc.h" "tiziano-dpc.c" "tiziano-dmsc.h" "tiziano-dmsc.c" "tiziano-defog.h" "tiziano-defog.c" "tiziano-csc.h" "tiziano-csc.c" "tiziano-core.h" "tiziano-core.c" "tiziano-core-tuning.h" "tiziano-core-tuning.c" "tiziano-core-ctrl.c" "tiziano-clm.h" "tiziano-clm.c" "tiziano-cdns.h" "tiziano-cdns.c" "tiziano-ccm.h" "tiziano-ccm.c" "tiziano-blc.h" "tiziano-blc.c" "tiziano-bcsh.h" "tiziano-bcsh.c" "tiziano-awb.h" "tiziano-awb.c" "tiziano-af.h" "tiziano-af.c" "tiziano-ae.h" "tiziano-ae.c" "tiziano-adr.h" "tiziano-adr.c" "tisp-ccm.a" "tisp-ccm-720r500.a" "tisp-ccm-720r400.a" "tisp-awb.a" "tisp-awb-720r500.a" "tisp-awb-720r400.a" "fix-point-calc.h" "fix-point-calc.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/CLM-bin2curve/" (24767 5359 0 0) "test.c" "run.sh" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/t40-tiziano-05-26/" (24749 47568 0 0) "trans.sh.cmd" "src/" "Makefile" "inc/" ".ycm_extra_conf.py" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/interp-for-anber/c_code/gamma2/" (24761 42395 0 0) "run.sh" "GMC.exe" "gamma.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/interp-for-anber/c_code/" (24760 31072 0 0) "gamma2/" "gamma/" "drawcurve/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-13-sp/lib/" (24691 63564 0 0) "image.h" "image.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/backup/t40-tiziano/src/" (24747 32119 0 0) "tiziano-ysp.h" "tiziano-ysp.c" "tiziano-ydns.h" "tiziano-ydns.c" "tiziano-wdr.h" "tiziano-wdr.c" "tiziano-tstp.h" "tiziano-tstp.c" "tiziano-sdns.h" "tiziano-sdns.c" "tiziano-params.h" "tiziano-msca.h" "tiziano-msca.c" "tiziano-mdns.h" "tiziano-mdns.c" "tiziano-map.h" "tiziano-lsc.h" "tiziano-lsc.c" "tiziano-lce.h" "tiziano-lce.c" "tiziano-hldc.h" "tiziano-hldc.c" "tiziano-gsm.h" "tiziano-gsm.c" "tiziano-gib.h" "tiziano-gib.c" "tiziano-gamma.h" "tiziano-gamma.c" "tiziano-event.h" "tiziano-event.c" "tiziano-dpc.h" "tiziano-dpc.c" "tiziano-dmsc.h" "tiziano-dmsc.c" "tiziano-defog.h" "tiziano-defog.c" "tiziano-csc.h" "tiziano-csc.c" "tiziano-core.h" "tiziano-core.c" "tiziano-core-tuning.h" "tiziano-core-tuning.c" "tiziano-core-ctrl.c" "tiziano-clm.h" "tiziano-clm.c" "tiziano-cdns.h" "tiziano-cdns.c" "tiziano-ccm.h" "tiziano-ccm.c" "tiziano-blc.h" "tiziano-blc.c" "tiziano-bcsh.h" "tiziano-bcsh.c" "tiziano-awb.h" "tiziano-awb.c" "tiziano-af.h" "tiziano-af.c" "tiziano-ae.h" "tiziano-ae.c" "tiziano-adr.h" "tiziano-adr.c" "tisp-ccm.a" "tisp-ccm-720r500.a" "tisp-ccm-720r400.a" "tisp-awb.a" "tisp-awb-720r500.a" "tisp-awb-720r400.a" "fix-point-calc.h" "fix-point-calc.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/blc/" (24731 46624 0 0) "tiziano-core.c" "tiziano-blc.h" "tiziano-blc.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/firmware/" (24687 51480 0 0) "2021-04-09/" "2021-04-07/" "2021-04-06/" "2021-04-01/" "2021-03-17/" "2021-03-10/" "2021-03-09/" "2021-02-19/" "2021-01-28/" "2021-01-26/" "2020-12-18-fix/" "2020-12-18/" "2020-12-14/" "2020-10-28/" "2020-10-09/" "2020-09-24/" "2020-09-16/" "2020-09-03/" "2020-08-25/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-13-mp/" (24693 16296 0 0) "trans.sh" "tiziano-lce.c" "ram/" "lib/" "lce.exe" "imgs/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/Mversion-2021-04-14/" (24693 18347 0 0) "ram/" "LCE_main.m" "imgs-lib/" "func-lib/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/001-my-m-func-lib/" (24705 23760 0 0) "writenv12.m" "unspfigure.m" "spfigure.m" "rgb2nv12.m" "readnv12.m" "printmatrix.m" "nv122rgb.m" "myconv2.m" "iconv2.m" "iconv1.m" "debug_file_func_line.m" "ccc.m" "add_frame.m" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/000-my-c-func-lib/" (24705 23760 0 0) "run.sh-bak" "jpeg/" "image.h" "image.c" "debug.h" "aaa.c-bak" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/Mversion-2021-04-14/func-lib/" (24693 25199 0 0) "lce_stat.m" "lce_soft.c" "lce_interp.c" "lce_init.m" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-12/" (24692 63810 0 0) "tiziano-lce.c" "run.sh" "lib/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/version-2021-04-12/firmware/" (24691 63513 0 0) "tiziano-lce.h" "tiziano-lce.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/" (24691 63195 0 0) "version-2021-04-12/" "version-006-wdr-sp/" "version-005-single-pic/" "version-004.zip" "version-004/" "version-003.zip" "version-002.zip" "version-001.zip" "lce数据范围.c" "lce-tool-paras-range.c" "firmware/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/DLI/c_code/ver004/" (24660 774 0 0) "trans.sh" "ori.nv12" "image.h" "image.c" "DLI.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/interp-for-anber/c_code/gamma/" (24648 9059 0 0) "run.sh" "GMC.exe" "gammacurve4.c" "gammacurve3.c" "gammacurve2.c" "gammacurve.c" "gammacurve-finish.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver006/" (24645 61381 0 0) "trans.sh" "PEAK.c" "ori.nv12" "image.h" "image.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver007-channel/" (24666 38214 0 0) "trans.sh" "res_y.hex" "res.nv12" "peak_para_0.txt" "PEAK.exe" "PEAK.c" "ori_y.hex" "ori.nv12" "image.h" "image.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/DLI/c_code/ver007-channel/" (24666 60991 0 0) "trans.sh" "ori.nv12" "image.h" "image.c" "DLI.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/firmware/2021-02-19/" (24623 26509 0 0) "tiziano-lce.c" "../" "./")
+
+ ("/home/ptshe/work/" (24603 39115 787686 296000) "../" "isvp/" "isvp_t31/" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver002/" (24624 25210 0 0) "trans.sh" "PEAK.c" "ori.nv12" "image.h" "image.c" "fssort.ini" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/firmware/2021-01-26/" (24592 59569 0 0) "tx-isp-init-params-day.c" "tiziano-lce.h" "tiziano-lce.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver004/" (24628 39667 0 0) "trans.sh" "PEAK.c" "ori.nv12" "image.h" "image.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver005/" (24631 30135 0 0) "trans.sh" "PEAK.c" "ori.nv12" "image.h" "image.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/interp-for-anber/c_code/drawcurve/" (24629 45652 0 0) "tmp.c" "tmp - 副本.c" "run.sh" "drawcurve.c" "aa.exe" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T31-defog/2020_12_15/" (24536 14392 0 0) "Tiziano_defog_fpga_p.c" "Tiziano_defog_fpga.c" "tiziano_defog.h" "tiziano_defog.c" "tisp_defog.a" "fast-init-para/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T31-defog/" (24603 19890 0 0) "issue/" "fast-init-para/" "2021-02-04/" "2020_12_15/" "2020_10_26/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T31-defog/2021-02-04/" (24603 18744 0 0) "tiziano_defog.h" "tiziano_defog.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T31-defog/2021-02-03/" (24602 9610 0 0) "tmp.h" "tmp.c" "tiziano_defog.h" "tiziano_defog.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T31-defog/issue/" (24594 10217 0 0) "Tiziano_defog_fpga.c" "tiziano_defog.h" "tiziano_defog.c" "tisp_defog.a" "tisp_defog-540.a" "tisp_defog-472.a" "../" "./")
+
+ ("/home/ptshe/work/isvp/build/" (24578 34181 488411 250000) "../" ".git/" "t21/" "t31/" "t10t20/" "t30/" "./" "t40/")
+
+ ("/home/ptshe/work/isvp/" (24583 34781 270398 758000) "proj/" "prebuilt/" "../" "repo" "doc/" "external/" "_release/" ".repo/" "build/" "opensource/" "./")
+
+ ("/home/ptshe/work/isvp/opensource/drivers/isp-t40/" (24578 34182 500435 781000) "../" "tx-isp-t40/" "./")
+
+ ("/home/ptshe/work/isvp/opensource/drivers/" (24578 34182 856444 414000) "../" "audio/" "i2c/" "sensors/" ".gitignore" ".git/" "soc-nna/" "sensors-t31/" "misc/" "isp-t21/" "sensors-t30/" "lzma/" "isp-t40/" "sensors-t40/" "isp-t31/" "./" "sensors-t21/" "avpu/" "isp-t30/" "isp/")
+
+ ("/home/ptshe/work/isvp/opensource/" (24578 44097 567978 92000) "uboot/" "../" "internal/" "busybox/" "kernel-4.4.94/" "rtems/" "kernel/" "drivers/" "./" "buildroot/")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/ImageToolServer/" (24578 44131 758914 340000) "../" "CMakeLists.txt" "main.cpp" "src/" "include/" "./")
+
+ ("/home/ptshe/work/isvp/opensource/internal/" (24578 44129 678978 101000) "../" "./" "t40/")
+
+ ("/home/ptshe/work/isvp/opensource/internal/t40/ImageTool-T40/" (24578 44131 758914 340000) "../" "tisptunnning.h" "logo.rc" "qss.qrc" "main.cpp" "tisptunnning.cpp" "icon.qrc" "tispsocket.cpp" "logo.ico" "TispTunning.pro.user" "tispsocket.h" "common/" "tisptunnning.ui" "icon/" "qss/" "page/" "./" "TispTunning.pro" "tispPar/")
+
+ ("/home/ptshe/Share_win/F_share/JZ-IMG-TRANSFORM/" (24417 48896 0 0) "run.sh" "README" "name.nv12" "name.bmp" "JZImgTF.c" "JZImgTF" "config" "1.nv12" "1.bmp" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T41/defog/ver001/src/" (24417 57431 0 0) "Tiziano_top.h" "Tiziano_top.c" "Tiziano_subfun.h" "Tiziano_subfun.c" "Tiziano_defog/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T41/defog/ver001/" (24417 57431 0 0) "src/" "run.sh" "Makefile" "defog.exe" "5.bmp" "5-out.bmp" "4.bmp" "4-out.bmp" "3.bmp" "3-out.bmp" "2.bmp" "2-out.bmp" "1.bmp" "1-out.bmp" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T41-defog-interp-test/c_code/" (24417 56617 0 0) "Tiziano-defog.h" "Tiziano-defog.c" "run.sh" "r7-y8-b9.png" "Makefile" "func-defog-interp.c" "5.bmp" "5-120-8.bmp" "4.bmp" "4-120-8.bmp" "3.bmp" "3-120-8.bmp" "2.bmp" "2-120-8.bmp" "2-120-7.bmp" "1.bmp" "1-120-7.bmp" "0.bmp" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T41/defog/ver001/src/Tiziano_defog/" (24417 57431 0 0) "Tiziano_defog.h" "Tiziano_defog.c" "func_dfg_stat.c" "func_dfg_soft.c" "func_dfg_para.c" "func_dfg_main.c" "func_dfg_init.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/Txx-imresize/c_code/v001/" (24540 652 0 0) "Tiziano-resize.h" "Tiziano-resize.c" "run.sh" "out-half-4.nv12" "out-half-4.bmp" "out-half-3.nv12" "out-half-3.bmp" "out-half-2.nv12" "out-half-2.bmp" "out-half-1.nv12" "out-half-1.bmp" "out-4.nv12" "out-4.bmp" "out-3.nv12" "out-3.bmp" "out-2.nv12" "out-2.bmp" "out-1.nv12" "out-1.bmp" "ori.nv12" "ori-half-4.nv12" "ori-half-4.bmp" "ori-half-3.nv12" "ori-half-3.bmp" "ori-half-2.nv12" "ori-half-2.bmp" "ori-half-1.nv12" "ori-half-1.bmp" "ori-4.nv12" "ori-4.bmp" "ori-3.nv12" "ori-3.bmp" "ori-2.nv12" "ori-2.bmp" "ori-1.nv12" "ori-1.bmp" "Makefile" "func-resize.c" "func-bicubic.c" "func-add-frame.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T31-defog/fast-init-para/" (24536 12484 0 0) "run" "defog_init_para.c" "defoginit" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/PEAK/c_code/ver001/" (24574 40280 0 0) "trans.sh" "PEAK.c" "out.nv12" "out.bmp" "ori.nv12" "ori.bmp" "image.h" "image.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/DLI/" (24544 17251 0 0) "c_code/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/PEAK/" (24574 20813 0 0) "m_code/" "c_code/" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/A1/PEAK/c_code/" (24574 20813 0 0) "../" "./")
+
+ ("/home/ptshe/work/fpga-t40/t40-tiziano/src/" (24564 3633 791405 511000) "tiziano-gib.h" "tiziano-adr.c" "tiziano-core-tuning.h" "tisp-awb.a" "tiziano-gamma.c" "../" "tiziano-core-ctrl.c" "tiziano-hldc.c" "tiziano-cdns.c" "tiziano-clm.h" "tx-isp-init-params-s1.c" "tisp-wdr.a" "tiziano-ccm.c" "tiziano-csc.c" "tiziano-dmsc.h" "tiziano-af.c" "tiziano-af.h" "tiziano-wdr.h" "tisp_adr.a" "tiziano-gib.c" "tiziano-wdr.c" "tiziano-cdns.h" "tiziano-mdns.h" "tiziano-ae.h" "tiziano-lce.c" "tiziano-ysp.h" "tiziano-blc.c" "tiziano-map.h" "tiziano-dmsc.c" "tiziano-ydns.h" "tisp-defog.a-bak" "tiziano-gamma.h" "tiziano-event.h" "tiziano-defog.c" "tiziano-tstp.c" "tiziano-adr.h" "tiziano-lce.h" "tiziano-mdns.c" "tiziano-clm.c" "tiziano-ysp.c" "tiziano-ccm.h" "tiziano-dpc.h" "tiziano-ydns.c" "tiziano-gsm.h" "fix-point-calc.h" "tiziano-gsm.c" "tiziano-csc.h" "tiziano-lsc.c" "tiziano-msca.h" "tiziano-tstp.h" "tiziano-awb.c" "tiziano_map_t31.h" "tiziano-event.c" "tiziano-params.h" "tiziano-dpc.c" "tiziano-blc.h" "tiziano-bcsh.h" "tiziano-sdns.h" "tiziano-msca.c" "tiziano-core-tuning.c" "fix-point-calc.c" "tx-isp-init-params-s0.c" "tisp-ccm.a" "tiziano-core.c" "tiziano-defog.h" "tisp-defog.a" "tiziano-hldc.h" "tiziano_all_params_info.c" "tiziano-lsc.h" "./" "tiziano-core.h" "tiziano-ae.c" "tiziano-awb.h" "tiziano-sdns.c" "tiziano-bcsh.c")
+
+ ("/home/ptshe/Share_win/F_share/T40/defog/firmware/2021-01-05/" (24563 58993 0 0) "tiziano-defog.h" "tiziano-defog.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/NVR/DLI/c_code/ver004/" (24553 36321 0 0) "trans.sh" "out.nv12" "out-100-40-4-0.bmp" "ori.nv12" "ori.bmp" "image.h" "image.c" "DLI.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/NVR/DLI/c_code/ver003/" (24548 25055 0 0) "trans.sh" "out.nv12" "out-80-16-6-1.bmp" "out-180-16-6-1.bmp" "ori.nv12" "ori.bmp" "image.h" "image.c" "DLI.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/NVR/DLI/c_code/ver002/" (24548 4631 0 0) "trans.sh" "test.m" "DLI.c" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/NVR/hce/c_code/ver001/" (24544 34915 0 0) "trans.sh" "HCE.c" "7-ori.nv12" "6-ori.nv12" "5-ori.nv12" "4-ori.nv12" "3-ori.nv12" "2-ori.nv12" "1-ori.nv12" "0-res-120-60.nv12" "0-res-120-60.bmp" "0-res-100-60.nv12" "0-res-100-60.bmp" "0-ori.nv12" "0-ori.bmp" "../" "./")
+
+ ("/home/ptshe/Share_win/F_share/T40/lce/firmware/2020-12-18/" (24537 23542 0 0) "tiziano-lce.h" "tiziano-lce.c" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
