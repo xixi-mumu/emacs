@@ -7,7 +7,7 @@
 (custom-set-variables
  '(blink-cursor-mode nil)
  '(frame-background-mode (quote light))
- '(scroll-bar-mode (quote right))
+ '(scroll-bar-mode nil)
  )
 
 (custom-set-faces
@@ -31,11 +31,14 @@
 (global-linum-mode 1)
 (setq column-number-mode t)
 
+;; line don't wrap
+(add-hook 'hack-local-variables-hook (lambda () (setq truncate-lines t)))
+
 ;; simple hook mode
 (add-hook 'c-mode-hook 'hs-minor-mode)
 (add-hook 'c++-mode-hook 'hs-minor-mode)
-(global-set-key (kbd "C-x [") 'hs-hide-block)
-(global-set-key (kbd "C-x ]") 'hs-show-block)
+(global-set-key (kbd "M-[") 'hs-hide-block)
+(global-set-key (kbd "M-]") 'hs-show-block)
 (global-set-key (kbd "C-M-[") 'hs-hide-all)
 (global-set-key (kbd "C-M-]") 'hs-show-all)
 
@@ -52,6 +55,9 @@
 (global-set-key [f8] 'bookmark-set)
 (global-set-key [f9] 'bookmark-jump)
 (global-set-key(kbd "C-t") 'comment-or-uncomment-region)
+
+(global-set-key [f12] 'toggle-truncate-lines)
+
 
 ;; change start screen (not perfact)
 (setq inhibit-startup-message t)
@@ -70,7 +76,7 @@
 
 ;; tab
 (setq-default indent-tabs-mode nil)
-(setq c-basic-offset 8)
+(setq c-basic-offset 4)
 (setq c-default-style "linux")
 (setq default-tab-width 4)
 
@@ -144,7 +150,6 @@
 (require 'pos-tip)
 (setq ac-quick-help-prefer-pos-tip t)
 
-
 (require 'auto-complete-clang)
 (setq ac-clang-flags
       (mapcar (lambda (item)(concat "-I" item))
@@ -181,6 +186,14 @@
 (load-file "/home/ptshe/.emacs.d/my-macro/my-macro.el")
 (global-set-key(kbd "M-<up>") 'up-spt)
 (global-set-key(kbd "M-<down>") 'down-spt)
+(global-set-key(kbd "M-d") 'clear-shell-window)
+
+
+;; --------- font scaler --------------------
+(global-set-key (kbd "<C-mouse-4>") 'text-scale-increase)
+(global-set-key (kbd "<C-mouse-5>") 'text-scale-decrease)
+
+
 
 
 

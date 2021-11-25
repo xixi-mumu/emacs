@@ -6,7 +6,8 @@
 (fset 'down-spt
    [down down down down down down down down down down down down down down down])
 
-
+(fset 'clear-shell-window
+      [?\C-x ?h backspace])
 
 
 
