@@ -110,7 +110,9 @@
 ;; font
 ;;iiiiiiiiii
 ;;wwwwwwwwww
-(set-face-attribute 'default t :font "-DAMA-Ubuntu Mono-normal-normal-normal-*-24-*-*-*-m-0-iso10646-1")
+;; (set-face-attribute 'default t :font "-DAMA-Ubuntu Mono-normal-normal-normal-*-16-*-*-*-m-0-iso10646-1")
+(set-face-attribute 'default t :font "-DAMA-Ubuntu Mono-normal-italic-normal-*-18-*-*-*-m-0-iso10646-1")
+
 
 (put 'downcase-region 'disabled nil)
 (put 'upcase-region 'disabled nil)
@@ -171,11 +173,11 @@
 (require 'matlab)
 ;;(setq auto-mode-alist (cons '("\\.m\\'" . matlab-mode) auto-mode-alist))
 
-(autoload 'matlab-mode "matlab" "Matlab Editing Mode" t)
-(add-to-list
- 'auto-mode-alist
- '("\\.m$" . matlab-mode))
-(setq matlab-indent-function t)
+;;(autoload 'matlab-mode "matlab" "Matlab Editing Mode" t)
+;;(add-to-list
+;; 'auto-mode-alist
+;; '("\\.m$" . matlab-mode))
+;;(setq matlab-indent-function t)
 ;;(setq matlab-shell-command "matlab")
 
 
