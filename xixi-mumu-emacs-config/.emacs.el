@@ -11,7 +11,7 @@
  )
 
 (custom-set-faces
- '(comint-highlight-prompt ((t (:inherit cyan))))
+ ;; '(comint-highlight-prompt ((t (:inherit cyan))))
  '(cursor ((t (:background "wheat"))))
  '(minibuffer-prompt ((t (:foreground "cyan")))))
 
