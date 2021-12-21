@@ -111,7 +111,10 @@
 ;;iiiiiiiiii
 ;;wwwwwwwwww
 ;; (set-face-attribute 'default t :font "-DAMA-Ubuntu Mono-normal-normal-normal-*-16-*-*-*-m-0-iso10646-1")
-(set-face-attribute 'default t :font "-DAMA-Ubuntu Mono-normal-italic-normal-*-18-*-*-*-m-0-iso10646-1")
+;; (set-face-attribute 'default t :font "-DAMA-Ubuntu Mono-normal-italic-normal-*-18-*-*-*-m-0-iso10646-1")
+;; (set-face-attribute 'default t :font "-1ASC-Liberation Mono-normal-italic-normal-*-17-*-*-*-m-0-iso10646-1")
+;; sudo apt install ttf-dejavu
+(set-face-attribute 'default t :font "-PfEd-DejaVu Sans Mono-normal-oblique-normal-*-16-*-*-*-m-0-iso10646-1")
 
 
 (put 'downcase-region 'disabled nil)
