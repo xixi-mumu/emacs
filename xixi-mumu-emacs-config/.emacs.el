@@ -77,6 +77,7 @@
 (setq-default c-basic-offset 4)
 (setq-default c-style "linux")
 (setq-default tab-width 4)
+(setq backward-delete-char-untabify-method nil)
 
 ;; save ...
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
