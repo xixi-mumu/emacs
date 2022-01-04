@@ -56,8 +56,6 @@
 (global-set-key [f9] 'bookmark-jump)
 (global-set-key(kbd "C-t") 'comment-or-uncomment-region)
 
-(global-set-key [f12] 'toggle-truncate-lines)
-
 
 ;; change start screen (not perfact)
 (setq inhibit-startup-message t)
@@ -76,9 +74,9 @@
 
 ;; tab
 (setq-default indent-tabs-mode nil)
-(setq c-basic-offset 4)
-(setq c-default-style "linux")
-(setq default-tab-width 4)
+(setq-default c-basic-offset 4)
+(setq-default c-style "linux")
+(setq-default tab-width 4)
 
 ;; save ...
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
@@ -192,7 +190,7 @@
 (global-set-key(kbd "M-<up>") 'up-spt)
 (global-set-key(kbd "M-<down>") 'down-spt)
 (global-set-key(kbd "M-d") 'clear-shell-window)
-
+(global-set-key [f12] 'all-tab)
 
 ;; --------- font scaler --------------------
 (global-set-key (kbd "<C-mouse-4>") 'text-scale-increase)

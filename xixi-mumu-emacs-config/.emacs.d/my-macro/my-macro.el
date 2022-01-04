@@ -9,6 +9,8 @@
 (fset 'clear-shell-window
       [?\C-x ?h backspace])
 
+(fset 'all-tab
+   [?\C-x ?h ?\C-p ?  ?  ?  ?  return tab return])
 
 
 
