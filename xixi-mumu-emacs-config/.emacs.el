@@ -74,9 +74,9 @@
 
 ;; tab
 (setq-default indent-tabs-mode nil)
-(setq-default c-basic-offset 4)
+(setq-default c-basic-offset 8)
 (setq-default c-style "linux")
-(setq-default tab-width 4)
+(setq-default tab-width 8)
 (setq backward-delete-char-untabify-method nil)
 
 ;; save ...
